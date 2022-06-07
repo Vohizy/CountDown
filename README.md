@@ -71,4 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # Getting to Uppload the Font-family
-you need to install the file digital-7-mono 
+you need to install the file digital-7-mono in folder fond
+
