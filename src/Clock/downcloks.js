@@ -1,8 +1,8 @@
 import React,{useState,useRef,useEffect} from "react";
 
-const calcTimeLeft=t=>{
-    if(!t)return 0;
-    const left=t - new Date().getTime();
+const calcTimeLeft=end=>{
+    if(!end)return 0;
+    const left=end - new Date().getTime();
      if(left<0)return 0;
      return left;
 }
